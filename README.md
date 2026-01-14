@@ -1,1 +1,1 @@
-# reverse_water_gas_shift_PINN_LSTM
+# reverse water gas shift PINN LSTM
