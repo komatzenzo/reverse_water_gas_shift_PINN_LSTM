@@ -1,1 +1,1 @@
-# reverse water gas shift PINN LSTM
+# reverse water gas shift PINN
